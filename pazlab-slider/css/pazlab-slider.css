@@ -1,0 +1,22 @@
+.bricks-swiper-container {
+
+}
+.swiper-slide {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    min-height: 50vh;
+    position: relative;
+    text-align: center;
+}
+.slider-content {
+    padding: 30px 60px;
+    position: relative;
+    z-index: 2;
+}
+.bricks-swiper-button-next {
+    right: 50px;
+}
+.bricks-swiper-button-prev {
+    left: 50px;
+}
